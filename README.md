@@ -1,3 +1,7 @@
+### Team Members
+
+Kevin Chen, Raghava Govil, Nikhil Sharma
+
 # Motivation
 
 We strove to use the presented data to predict whether a home team will win or lose a given basketball game.
