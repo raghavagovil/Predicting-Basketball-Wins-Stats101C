@@ -37,3 +37,7 @@ After variable selection via LASSO, we implemented a logistic regression model w
 After ordering the variables in the model by the absolute values of their t-statistics, the three most important variables to predict whether the home team would win or not were **Difference in Win Percentage**, **Difference in Defensive Rating** and **Difference in Plus-Minus, Starter 3**. It is intuitive that difference in win percentage would be a strong predictor of whether the home team wins or not, as at its most basic, it is a measure of which team is historically stronger. We found the importance of defensive rating, though, to be particularly noteworthy. 
 
 We feel that our model worked well (relative to the Kaggle leaderboard) because of our use of advanced statistics. Defensive rating is a great example of the power an advanced statistic could harness; no one variable present in the raw training data could give us the explanatory power of a holistic view of defense that the combination of variables that culminated in defensive rating did. By using such advanced metrics, we were able to stand on the shoulders of the giants of basketball analytics and leverage their work to predict the most important aspect of any sport: victory. 
+
+# Result
+
+Finished 4th out of 145 teams in the Kaggle Competition with a classification rate of 68.68%
